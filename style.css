@@ -15,7 +15,7 @@
 }
 
 body{
-    color: var(--branco);
+    color: var(--preto);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
@@ -128,14 +128,14 @@ label{
 }
 .fraca{
     width: 25%;
-    background-color: #E71B32; 
+    background-color: #FF0000; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #FFFF00;
     width: 50%;
 }
 .forte{
-    background-color: #00FF85;
+    background-color: #00FF00;
     width: 100%;
 }
 
